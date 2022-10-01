@@ -2,8 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/.idea/
 dsa.iml
-.idea
 
 ### Eclipse ###
 .apt_generated
